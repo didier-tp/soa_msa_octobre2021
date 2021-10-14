@@ -1,0 +1,31 @@
+Ancienne documentation (plus à jours) mais qui explique (sans cachoterie commerciales) les
+principes de fonctionnement de "api management" et "api gateway":
+
+https://blog.octo.com/kong-le-gorille-de-lapi-management-vu-de-pres/
+
+=======================================
+Vue d'ensemble sur version récente de Kong:
+http://rangeo.co.kr/soultion-kong/
+
+
+
+Documentation de la version récente de Kong Dev Portal (partie payante de Kong Gateway Enterprise)
+https://docs.konghq.com/enterprise/2.4.x/developer-portal/
+
+
+
+==============================
+Vue d'ensemble solution WSO2:
+https://apim.docs.wso2.com/en/latest/get-started/apim-architecture/
+et
+https://medium.com/scalable/wso2-api-manager-in-a-nutshell-eaac20812f0c
+(architecture interne de wso2-api-manager basé sur un coeur ESB codé en JAVA)
+
+
+
+
+==============
+offre microsoft_azure : https://azure.microsoft.com/fr-fr/services/api-management/#overview
+
+offre Amazon : https://aws.amazon.com/fr/api-gateway/
+               https://aws.amazon.com/fr/api-gateway/api-management/
